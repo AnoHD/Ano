@@ -1,4 +1,4 @@
-<h1 align="center">Hey Ano's Here!</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Ano here!</h1>
 
 <h4 align="left">Discord</h4>
 <p><img src ="https://discord.c99.nl/widget/theme-2/591109629329670248.png" alt="CodeDot" /></p>
