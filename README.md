@@ -3,7 +3,7 @@
 <h4 align="left">Discord</h4>
 <p><img src ="https://discord.c99.nl/widget/theme-2/591109629329670248.png" alt="CodeDot" /></p>
 
-<h4 align="left">Language</h4>
+<h4 align="left">Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
